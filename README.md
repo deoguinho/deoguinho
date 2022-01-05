@@ -19,11 +19,11 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/deoguin_ho/" alt="Instagram">
+  <a href="https://www.instagram.com/deoguin_ho/" alt="Instagram" target ="_blank">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/deoguinho" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/deoguinho" alt="Linkedin" target ="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
 
