@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=ecf05e47hylch294ppnexvlqo8s5et5n8f1j2oyupg86uf8r&rid=giphy.gif&ct=g" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://media1.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=ecf05e47hylch294ppnexvlqo8s5et5n8f1j2oyupg86uf8r&rid=giphy.gif&ct=g" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador">
 
 <h2 align = "left">Deoguinho</h2>
 <p align="left">
