@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, PHP, C# (EFcore), UI/UX (Figma)</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Go, PHP, C# (EFcore), UI/UX (Figma)</strong>
 </p>
 
 <p align="left">
