@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Asana, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>Figma, Git</strong>
 </p>
 
 <p align="left">
